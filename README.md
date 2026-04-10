@@ -1,2 +1,12 @@
-# vehicle-fault-prediction
-Machine learning project to predict vehicle faults using sensor data for predictive maintenance.
+# 🚗 Vehicle Fault Prediction
+
+## Overview
+This project predicts vehicle failures using sensor data.
+
+## Tools Used
+- Python
+- Pandas
+- Machine Learning
+
+## Status
+Work in progress
