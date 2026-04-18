@@ -41,6 +41,9 @@ To build a classification model that predicts system failure based on input feat
 - Try advanced models (XGBoost, Neural Networks)
 - Deploy as a real-time prediction system
 
+📁 Dataset  
+Dataset used is publicly available / synthetically generated for learning purposes.
+
 ⚠️ Note:
 The dataset used is synthetic / simplified, which may result in higher accuracy than real-world scenarios.
 
@@ -48,3 +51,4 @@ The model identifies key contributing factors to vehicle failure using feature i
 
 📌 Status
 ✅ Completed
+This project was developed as part of hands-on learning in data analysis and machine learning.
