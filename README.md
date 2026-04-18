@@ -28,7 +28,9 @@ To build a classification model that predicts system failure based on input feat
 - Note: The target variable was synthetically created, which may result in higher accuracy than real-world scenarios
 - Identified key features influencing prediction
 - Visualized feature importance using graph
-- 
+- Feature importance highlights which variables contribute most to failure prediction
+- The model identifies key contributing factors to vehicle failure using feature importance analysis.
+
 💡 Skills Demonstrated
 - Machine Learning
 - Data Preprocessing
@@ -46,8 +48,6 @@ Dataset used is publicly available / synthetically generated for learning purpos
 
 ⚠️ Note:
 The dataset used is synthetic / simplified, which may result in higher accuracy than real-world scenarios.
-
-The model identifies key contributing factors to vehicle failure using feature importance analysis.
 
 📌 Status
 ✅ Completed
