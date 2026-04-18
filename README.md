@@ -41,5 +41,7 @@ To build a classification model that predicts system failure based on input feat
 - Try advanced models (XGBoost, Neural Networks)
 - Deploy as a real-time prediction system
 
+Note: The target variable was synthetically created, which may result in higher accuracy than real-world scenarios
+
 📌 Status
 ✅ Completed
