@@ -47,7 +47,8 @@ To build a classification model that predicts system failure based on input feat
 - Deploy as a real-time prediction system
 
 ⚠️ Note:
-The dataset is synthetic/simplified, which may result in unusually high accuracy compared to real-world scenarios.
+- The dataset is synthetic/simplified, which may result in unusually high accuracy compared to real-world scenarios.
+- This project demonstrates practical application of data analysis and machine learning concepts.
 
 📌 Status
 ✅ Completed
