@@ -1,7 +1,7 @@
 🚗 Vehicle Fault Prediction using Machine Learning
 
 📌 Overview
-This project focuses on predicting system failure using machine learning techniques on structured vehicle-related data. It simulates real-world fault prediction scenarios.
+This project focuses on predicting system failure using machine learning techniques on structured vehicle-related data. It simulates real-world fault prediction scenarios. This project also demonstrates predictive maintenance concepts in vehicles using machine learning
 
 🎯 Objective
 To build a classification model that predicts system failure based on input features.
@@ -30,6 +30,9 @@ To build a classification model that predicts system failure based on input feat
 - Visualized feature importance using graph
 - Feature importance highlights which variables contribute most to failure prediction
 - The model identifies key contributing factors to vehicle failure using feature importance analysis.
+- Model performance may vary with real-world noisy and imbalanced datasets
+- Feature importance highlights which variables contribute most to failure prediction
+- - Care was taken to avoid data leakage during feature selection and model training
 
 💡 Skills Demonstrated
 - Machine Learning
@@ -43,11 +46,8 @@ To build a classification model that predicts system failure based on input feat
 - Try advanced models (XGBoost, Neural Networks)
 - Deploy as a real-time prediction system
 
-📁 Dataset  
-Dataset used is publicly available / synthetically generated for learning purposes.
-
 ⚠️ Note:
-The dataset used is synthetic / simplified, which may result in higher accuracy than real-world scenarios.
+The dataset is synthetic/simplified, which may result in unusually high accuracy compared to real-world scenarios.
 
 📌 Status
 ✅ Completed
